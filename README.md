@@ -44,7 +44,7 @@ This guide is based on the [convention over configuration](https://en.wikipedia.
 
 	**Note**: If you do not follow these conventions, you’ll need to manually update the following files and values:
 	- `config.js` - location, product id, DSN
-	- `config.json` - location, passphrase
+	- `config.json` - location, product id, passphrase
 
 ---
 
